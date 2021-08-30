@@ -1,0 +1,33 @@
+
+.rectangle {
+    margin: auto;
+    width: 220px;
+    height: 350px;
+    opacity: 0.5;
+    position: relative;
+    top:-65px;
+  }
+
+  .button{
+      margin: auto;
+      position: relative;
+      left:625px ;
+      top: -20px;
+      text-align: center;
+      background-color: red;
+      border: red;
+      border-radius: 0px;
+      font-size: 20px;
+      font-weight: 200;
+      padding: 5px 40px;
+  }
+  .button:hover{
+    background-color: rgb(255, 66, 66);
+  }
+
+  .clickText{
+    margin: auto;
+    position: relative;
+    left:630px ;
+    top: -20px;
+  }
